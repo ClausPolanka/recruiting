@@ -1,0 +1,17 @@
+Cover letter
+Dear Erste Digital Software Development Hiring Team,
+
+I am writing to express my interest in the Software Engineer for George position, as advertised on www.jobs.cz. With over 5 years of experience in Java, more than 3 years in web development (mainly backend), and proficiency in technologies such as Spring Boot, Spring Data, Spring Cloud, and JUnit, I am eager to contribute my skills to Erste Digital.
+
+My experience includes a strong background in writing HTTP APIs using Spring Boot, leveraging frameworks such as Spring Data and Spring Cloud, microservices architecture, and hands-on experience with various databases, including SQL databases and non-SQL databases like MongoDB. While my exposure to Elasticsearch is limited to writing a few queries, I am familiar with its purpose and potential applications.
+
+The prospect of applying and expanding my knowledge at Erste Digital, a company that values continuous learning and embraces open-mindedness, resonates with my career goals.
+
+I am particularly drawn to your company's commitment to passionate learning and collaboration, as well as the emphasis on respectfully challenging colleagues. The open-minded and dedicated approach to finding optimal solutions aligns well with my values. I am enthusiastic about the opportunity to contribute to the success of Erste Digital and grow within your innovative environment.
+
+Thank you for considering my application. I am eager to discuss how my skills align with the needs of your team and contribute to the dynamic work at Erste Digital.
+
+Sincerely,
+Vaclav Rechtberger
+733459891
+vaclav.rechtberger@gmail.com
